@@ -14,7 +14,7 @@
 
 ```bash
 npm install
-node verify.js
+node testsame.js
 ```
 
 ### Demo Video
