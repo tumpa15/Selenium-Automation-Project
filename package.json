@@ -1,0 +1,16 @@
+{
+  "name": "selenium_batch17",
+  "version": "1.0.0",
+  "description": "selenium webdriver automation test project",
+  "license": "ISC",
+  "author": "antara",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chai": "^6.2.2",
+    "selenium-webdriver": "^4.45.0"
+  }
+}
