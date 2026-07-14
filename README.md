@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Selenium Batch17
 
 ## Selenium Automation Project 
