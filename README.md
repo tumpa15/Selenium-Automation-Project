@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< HEAD>>>>>>>
 # Selenium Batch17
 
 ## Selenium Automation Project 
@@ -20,3 +20,8 @@ node testsame.js
 ### Demo Video
 
 The automation demo is available in the **videos** folder.
+
+
+## Author
+
+**Antara Aditya**
